@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @GIMENEZ2008
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Boas vindas ao meu perfil 💙
 
-<!---
-GIMENEZ2008/GIMENEZ2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Maria Clara Gimenez
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvido
+
+  ### Você entrar em contato comigo 📫
+
+  00001114147059sp@al.educacao.sp.gov.br
+  
+  maria_clara_gimenez_maia
+
+![](https://media1.tenor.com/m/Ec3dhtEH0QEAAAAC/landscape-full-moon.gif
+  )
+
+  
